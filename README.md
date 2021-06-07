@@ -2,8 +2,6 @@
 
 I'm Vinicius, but you can call me as VMC 🤓
 
-Here are some ideas to get you started:
-
 - 🔭 I’m enthusiast of mobile technologies w/ Flutter
 - 🌱 I’m always learning more about Flutter
 - 🎓 I'm a student at UniAvan - Information Systems
